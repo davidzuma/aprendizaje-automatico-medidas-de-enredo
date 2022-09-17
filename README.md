@@ -7,3 +7,5 @@ To install a library create a new cell and run this command:
 
 
 `!pip install library_name` 
+
+If you cant run the notebooks, write an email to zumaquerodavid@gmail.com
