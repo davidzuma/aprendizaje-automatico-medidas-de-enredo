@@ -1,4 +1,4 @@
-# Prática TFM
+# Master thesis code
 This work collects code in  David Zumaquero Master's thesis.
 The code to install dependecies is not in the notebooks. 
 
