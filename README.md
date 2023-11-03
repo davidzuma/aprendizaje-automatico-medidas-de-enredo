@@ -1,11 +1,10 @@
-# Master thesis code
-This work collects code in  David Zumaquero Master's thesis.
-The code to install dependecies is not in the notebooks. 
+# Aprendizaje Automático. ¿Por qué las redes neuronales funcionan?
 
+Este trabajo recoge el código usado de los experimentos del trabajo de fin de Máster titulado **Aprendizaje Automático. ¿Por qué las redes neuronales funcionan?** Esta formado por las siguientes secciones:
 
-To install a library create a new cell and run this command:
+  1. [Aprendizaje supervisado](aprendizaje_supervisado)
+  2. [Aprendizaje no supervisado](aprendizaje_no_supervisado) 
+  3. [Aprendizaje profundo](aprendizaje_profundo)
+  4. [Medidas de enredo](medidas_de_enredo)
 
-
-`!pip install library_name` 
-
-If you cant run the notebooks, please write an email to zumaquerodavid@gmail.com
+Puedes navegar por los enlaces de esta página para encontrar el código y explicaciones de los temas mencionados.
