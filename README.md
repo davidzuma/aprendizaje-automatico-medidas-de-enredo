@@ -1,6 +1,6 @@
 # Aprendizaje Automático. ¿Por qué las redes neuronales funcionan?
 
-Este trabajo recoge el código usado de los experimentos del trabajo de fin de Máster titulado **Aprendizaje Automático. ¿Por qué las redes neuronales funcionan?** Esta formado por las siguientes secciones:
+Este trabajo recoge el código usado de los experimentos del trabajo de fin de Máster titulado **Aprendizaje Automático. ¿Por qué las redes neuronales funcionan?** Está formado por las siguientes secciones:
 
   1. [Aprendizaje supervisado](aprendizaje_supervisado)
   2. [Aprendizaje no supervisado](aprendizaje_no_supervisado) 
