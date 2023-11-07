@@ -6,5 +6,5 @@ En esta sección se ven conceptos del aprendizaje automático supervisado. Este 
 - [Regresión lineal](regresion_lineal.html)
 - [Regresión logística](regresion_logistica.html)
 - [Regresión logística polinomial](regresion_logistica_polinomial.html)
-- [clasificación de espirales](clasificacion_espirales_rl.html)
+- [Clasificación de espirales](clasificacion_espirales_rl.html)
 - [Sobre el ajuste de modelos](sobreajuste.html)
