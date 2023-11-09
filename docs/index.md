@@ -6,6 +6,6 @@ Este trabajo recoge el código usado de los experimentos del trabajo de fin de M
 1. [Aprendizaje supervisado](/Aprendizaje-Automatico-Medidas-De-Enredo/aprendizaje_supervisado)
 2. [Aprendizaje no supervisado](aprendizaje_no_supervisado)
 3. [Aprendizaje profundo](aprendizaje_profundo)
-4. [Medidas de enredo](medidas_de_enredo)
+4. [Medidas de enredo](medidas_enredo)
 
 Puedes navegar por los enlaces de esta página para encontrar el código y explicaciones de los temas mencionados.

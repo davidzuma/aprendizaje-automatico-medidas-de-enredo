@@ -1,10 +1,8 @@
-
-# 🏷️ Aprendizaje supervisado
-
-En esta sección se ven conceptos del aprendizaje automático supervisado. Este tipo de aprendizaje esta caracterizado porque los datos que usaramos para entrenar los modelos deben tener etiquetas. 
-
-- [Regresión lineal](regresion_lineal.html)
-- [Regresión logística](regresion_logistica.html)
-- [Regresión logística polinomial](regresion_logistica_polinomial.html)
-- [Clasificación de espirales](clasificacion_espirales_rl.html)
-- [Sobre el ajuste de modelos](sobreajuste.html)
+# Aprendizaje supervisado.En esta sección se ven conceptos de Aprendizaje supervisado.
+- [Clasificacion espirales rl](clasificacion_espirales_rl.html) 
+- [Sobreajuste](sobreajuste.html) 
+- [Regresion polinomial](regresion_polinomial.html) 
+- [Regresion logistica polinomial](regresion_logistica_polinomial.html) 
+- [Regresion lineal](regresion_lineal.html) 
+- [Regresion logistica](regresion_logistica.html) 
+- [Raices unidad](raices_unidad.html) 
