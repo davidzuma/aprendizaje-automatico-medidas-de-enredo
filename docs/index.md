@@ -10,12 +10,12 @@ Este trabajo recoge el código usado en los experimentos del trabajo de fin de M
 
 Las redes neuronales son muy efectivas en resolver problemas complejos. ¿Por qué ocurre esto? 
 a.En ocasiones, se habla de redes neuronales como cajas negras. El objetivo de este trabajo es dar un poco de luz en este aspecto. 
-Para ello, intentaremos ver lo que ocurre en el interior de cada capa viendo los datos embebidos dentro de variedades como está:  
+Para ello, intentaremos ver lo que ocurre en el interior de cada capa viendo los datos embebidos dentro de variedades como está:
 
-![entabglement_manifold.png](_images%2Fentabglement_manifold.png)
+<img alt="entanglement_manifold.png" src="_images/entanglement_manifold.png"/>
 
 Con el objetivo de ver y medir, haciendo uso de matemática y geometría, que los datos se irán aplanando y generando variedades como
 
-![partially_entanglement_manifold.jpg](_images%2Fpartially_entanglement_manifold.jpg)
+<img alt="partially_entanglement_manifold.jpg" src="_images/partially_entanglement_manifold.jpg"/>
 
 Puedes navegar por los enlaces de esta página para encontrar el código y explicaciones de los temas mencionados.
