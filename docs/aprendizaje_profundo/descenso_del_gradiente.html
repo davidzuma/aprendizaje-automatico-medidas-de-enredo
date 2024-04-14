@@ -7550,15 +7550,15 @@ a.anchor-link {
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
 <p>Vamos a usar un modelo de regresión lineal ajustando sus parámetros mediante el método del descenso del gradiente.</p>
-<p>Nuestra función de error es
+<p>Nuestra función de error es 
 $$E= \sum_{i=1}^{m} (y_i-(\theta_1 x_i+\theta_0))^2$$</p>
 <p>Empecemos calculando las derivadas parciales.</p>
-<p>\begin{equation}
+\begin{equation}
 \begin{split}
 \frac{∂E}{∂\theta_0}&amp;=\sum_{i=1}^{m} -2(y_i-(\theta_1 x_i+\theta_0)) \\
 \frac{∂E}{∂\theta_1}&amp;=\sum_{i=1}^{m} -2x_i(y_i-(\theta_1 x_i+\theta_0))
 \end{split}
-\end{equation}</p>
+\end{equation}
 </div>
 </div>
 </div>
@@ -7570,12 +7570,12 @@ $$E= \sum_{i=1}^{m} (y_i-(\theta_1 x_i+\theta_0))^2$$</p>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
 <p>El descenso del gradiente procede en épocas, que consiste en usar el conjunto de entrenamiento para actualizar sus parámetros. También interviene un parámetro que debemos de seleccionar, la tasa de aprendizaje $α$, que se encarga de controlar cuanto se actualizan los valores. En cada época actualizamos los parámetros y reduciremos el error.</p>
-<p>\begin{equation}
+\begin{equation}
 \begin{split}
 \theta_0^* &amp;= \theta_0 -α\frac{∂E}{∂\theta_0} \\
 \theta_1^* &amp;= \theta_0 -α\frac{∂E}{∂\theta_1} 
 \end{split}
-\end{equation}</p>
+\end{equation}
 </div>
 </div>
 </div>
