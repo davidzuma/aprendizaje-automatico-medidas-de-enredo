@@ -12,10 +12,10 @@ Las redes neuronales son muy efectivas en resolver problemas complejos. ¿Por qu
 En ocasiones, se habla de redes neuronales como cajas negras. El objetivo de este trabajo es dar un poco de luz en este aspecto. 
 Para ello, intentaremos ver lo que ocurre en el interior de cada capa viendo los datos embebidos dentro de variedades como esta:
 
-[Entanglement manifold](aprendizaje-automatico-medidas-de-enredo/_images/entanglement_manifold.png)
+![Entanglement manifold](aprendizaje-automatico-medidas-de-enredo/_images/entanglement_manifold.png)
 
 Con el objetivo de ver y medir, haciendo uso de matemática y geometría, que los datos se irán aplanando y generando variedades como
 
-[Partially entanglement manifold](aprendizaje-automatico-medidas-de-enredo/_images/partially_entanglement_manifold.jpg)
+![Partially entanglement manifold](aprendizaje-automatico-medidas-de-enredo/_images/partially_entanglement_manifold.jpg)
 
 Puedes navegar por los enlaces de esta página para encontrar el código y explicaciones de los temas mencionados.
