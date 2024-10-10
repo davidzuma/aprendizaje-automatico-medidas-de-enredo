@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Why do Neural Networks work?</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Why Do Neural Networks Work?</h1>
+        <h1>This is work in progress</h1>
+    </header>
+    <main>
+        <section id="introduction">
+            <h2>Introduction</h2>
+            <p>Welcome to an exciting journey into the world of Machine Learning! Have you ever wondered why neural networks are so effective at solving complex problems? Often described as "black boxes," we're here to shed some light on their inner workings.</p>
+        </section>
+
+        <section id="ml-basics">
+            <h2>Machine Learning Basics</h2>
+            <p>Before we dive into neural networks, let's explore some fundamental concepts of Machine Learning:</p>
+            <h3>Transforming Categories to Numbers</h3>
+            <p>In the real world, we often deal with categorical data. Machine Learning algorithms, however, work best with numbers. We'll explore techniques like one-hot encoding and label encoding to bridge this gap.</p>
+            <h3>Regression vs. Classification</h3>
+            <p>We'll discuss the two main types of supervised learning tasks: regression (predicting continuous values) and classification (categorizing data into classes).</p>
+        </section>
+
+        <section id="linear-polynomial">
+            <h2>Why Linear and Polynomial Models Aren't Enough</h2>
+            <p>While linear and polynomial models are useful for many tasks, they often fall short when dealing with complex, real-world problems. We'll explore their limitations and why we need more sophisticated approaches.</p>
+        </section>
+
+        <section id="dimensionality-reduction">
+            <h2>Dimensionality Reduction: PCA</h2>
+            <p>As we venture into high-dimensional data, we'll introduce Principal Component Analysis (PCA), a powerful technique for reducing dimensionality while preserving essential information.</p>
+        </section>
+
+        <section id="neural-networks">
+            <h2>Neural Networks: The Game Changer</h2>
+            <p>Now, let's unravel the mystery of neural networks! We'll explore how they process data through multiple layers, learning complex patterns along the way.</p>
+            <h3>The Flattening and Unentanglement Concept</h3>
+            <p>One of the key reasons behind the success of neural networks is their ability to "flatten" and "disentangle" complex data. As data flows through the network, it gets transformed and represented in ways that make the underlying patterns more apparent.</p>
+            <div class="image-container">
+                <img src="images/entanglement_manifold.png" alt="Entanglement manifold" class="example-image">
+                <p class="image-caption">Entanglement manifold: A visual representation of how data is structured within neural network layers.</p>
+            </div>
+            <p>As the network processes the data, it gradually simplifies these complex manifolds:</p>
+            <div class="image-container">
+                <img src="images/partially_entanglement_manifold.jpg" alt="Partially entangled manifold" class="example-image">
+                <p class="image-caption">Partially entangled manifold: The data structure becomes simpler as it moves through the network.</p>
+            </div>
+            <p>By the end of this journey, you'll have a deeper understanding of why neural networks are so powerful and how they manage to solve complex problems that were once thought to be unsolvable by machines.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Machine Learning Fundamentals. All rights reserved.</p>
+    </footer>
+</body>
+</html>
