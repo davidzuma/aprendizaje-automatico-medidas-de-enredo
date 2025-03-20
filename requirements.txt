@@ -1,8 +1,0 @@
-joblib
-numpy
-scipy
-threadpoolctl
-pandas
-matplotlib
-seaborn
-tensorflow
