@@ -65,9 +65,7 @@ footer {
     color: white;
     text-align: center;
     padding: 1rem;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
+    /* Removed position: fixed, bottom: 0, and width: 100% to prevent footer from overlapping content */
 }
 
 @media (max-width: 600px) {
